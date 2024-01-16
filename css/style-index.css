@@ -1,0 +1,158 @@
+/** BODY **/
+
+body {
+    margin: 0;
+}
+
+.screen-logo {
+    background-color: #d2f5e3;
+    height: 200px;
+    margin: 56px 0 30px;
+}
+
+.tataletak {
+    padding-top: 50px;
+    position: absolute;
+    left: 15%;
+    text-align: center;
+}
+
+.logo {
+    margin-right: 20px;
+}
+
+.card {
+    border: 0;
+    align-items: stretch;
+    text-align: center;
+    margin: 0 10% 0 10%;
+}
+
+hr {
+    padding-bottom: 50px;
+}
+
+.large-img {
+    width: 70%;
+
+}
+
+/**  SECTION **/
+
+#big-picture {
+    font-size: medium;
+    text-align: center;
+    color: #001f3f;
+}
+
+#bismillah {
+    font-size: large;
+    text-align: center;
+
+}
+
+#testimoni {
+    padding-top: 5rem;
+}
+
+/** Corousel **/
+.carousel-item {
+    height: 150px;
+    background-color: #DCDCDC;
+}
+
+
+
+/** PARAGRAF **/
+
+.paragraf {
+    width: 50%;
+    text-align: justify;
+    position: relative;
+    left: 25%;
+}
+
+#line {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#line-2 {
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+
+#line-3 {
+    text-align: right;
+    color: rgb(19, 125, 231);
+    padding-top: 20px;
+}
+
+#news {
+    padding-top: 50px;
+}
+
+
+
+
+/** FOOTER **/
+.footer {
+    background: rgb(19, 125, 231);
+    height: 150px;
+    padding-top: 15px;
+}
+
+.segment-one {
+    position: absolute;
+    right: 18%;
+    padding-top: 30px;
+    font-size: 0.9rem;
+}
+
+.segment-two {
+    position: absolute;
+    right: 5%;
+    padding-top: 30px;
+}
+
+/* -- */
+
+.segment-one a {
+    color: #fff;
+}
+
+.segment-two a {
+    background: white;
+    padding: 2px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 40%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+    background: white;
+    color: #3B5998;
+}
+
+#year {
+    text-align: center;
+    color: white;
+    padding-top: 7%;
+    font-size: 0.9rem;
+}
